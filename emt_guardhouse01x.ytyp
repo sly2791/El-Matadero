@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <guid value="0"/>
+      <flags value="0" />
+      <loadFlags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-9.9765625" y="-2.9382954" z="-9.096863" />
+      <bbMax x="9.843262" y="2.5514507" z="9.804993" />
+      <bsCentre x="-0.06665039" y="-0.19342232" z="0.35406494" />
+      <bsRadius value="13.966414" />
+      <lodDist value="120" />
+      <hdTextureDist value="60.0"/>
+      <name>emt_guardhouse01x</name>
+      <textureDictionary>emt_guardhouse01x</textureDictionary>
+      <physicsDictionary>emt_guardhouse01x</physicsDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>emt_guardhouse01x</assetName>
+      <extensions />
+      <redm_loves_you_a68fd88a5afa0b22 />
+    </Item>
+  </archetypes>
+  <name>emt_guardhouse01x</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>

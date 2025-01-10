@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <guid value="0"/>
+      <flags value="0" />
+      <loadFlags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-4.555176" y="-2.0985928" z="-3.9598389" />
+      <bbMax x="4.0219727" y="1.1108799" z="4.3760986" />
+      <bsCentre x="-0.26660156" y="-0.49385643" z="0.20812988" />
+      <bsRadius value="6.19185" />
+      <lodDist value="120" />
+      <hdTextureDist value="60.0"/>
+      <name>emt_shack01x</name>
+      <textureDictionary>emt_shack01x</textureDictionary>
+      <physicsDictionary>emt_shack01x</physicsDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>emt_shack01x</assetName>
+      <extensions />
+      <redm_loves_you_a68fd88a5afa0b22 />
+    </Item>
+  </archetypes>
+  <name>emt_shack01x</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>
